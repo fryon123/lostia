@@ -1,0 +1,1 @@
+enum PrefNames { allowedNumbers, registeredNumbers }
