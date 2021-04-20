@@ -1,3 +1,4 @@
+> This is a project for the DSC Loyola Hackathon
 # LOSTIA
 
 An SOS Call app which will send your current location to your selected persons with just one click. It uses sms as an alternative to internet to have a cheap and easy way of communication.
